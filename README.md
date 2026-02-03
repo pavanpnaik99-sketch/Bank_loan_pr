@@ -163,5 +163,7 @@ It reflects real-world data analyst work and is suitable for:
 - Interviews
 - Case study discussions
 
-- Dashboard Prev
-[image alt](https://github.com/pavanpnaik99-sketch/Bank_loan_pr/blob/main/Bank_loan_Dashboard.png)
+## Dashboard Preview
+
+![Dashboard](https://github.com/pavanpnaik99-sketch/Bank_loan_pr/blob/main/Bank_loan_Dashboard.png)
+
